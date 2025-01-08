@@ -4,9 +4,7 @@ Below is a list of open source games and game-related projects that can be found
 
 #### Contributing
 
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/OpenSourceVideoGames/list/issues), or fork this repository and submit a pull request ([click here to edit this file from github](https://github.com/OpenSourceVideoGames/list/edit/master/README.md)).
-
-**Would you like to help maintain and improve this repository?** [Click here for information on becoming a maintainer](https://github.com/OpenSourceVideoGames/list/issues/483).
+If you'd like to add a repository to the list, please [create an Issue](https://github.com/OpenSourceVideoGames/list/issues), or even better fork this repository and submit a pull request ([click here to edit this file from github](https://github.com/OpenSourceVideoGames/list/edit/master/README.md)) thanks!
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
