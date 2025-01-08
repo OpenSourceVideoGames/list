@@ -368,7 +368,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Sandbox
 
-* [FUE5](https://github.com/FUE5BASE/FUE5) - technically now it is some sort of tech demo [video demo](https://tinyurl.com/FUE5-Trailer)
+* [FUE5](https://github.com/FUE5BASE/FUE5) - technically now it is some sort of tech demo [video](https://tinyurl.com/FUE5-Trailer)
 * [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
 * [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
 * [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
