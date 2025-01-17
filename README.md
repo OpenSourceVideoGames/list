@@ -76,7 +76,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
 * [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
-* [StockFish MAC](https://github.com/daylen/stockfish-mac) - Stockfish for Mac is a powerful chess analysis app. Play two-player games on the beautiful chess board, or get an instant accurate analysis of any game.
 
 
 ## Arcade
@@ -356,6 +355,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 * [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
+* [StockFish MAC](https://github.com/daylen/stockfish-mac) - Stockfish for Mac is a powerful chess analysis app. Play two-player games on the beautiful chess board, or get an instant accurate analysis of any game.
 
 ## Racing
 
