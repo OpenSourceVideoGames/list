@@ -418,6 +418,7 @@ A selection of major game studios, publishers, etc.:
 * [Race into Space](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
 * [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
 * [Source of Tales](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
+* [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real time strategy based on the original Stronghold series. https://stone-kingdoms.gitlab.io/
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 * [TripleA](https://github.com/triplea-game/triplea) - Turn based strategy game and board game engine, similar to Axis & Allies or Risk. 
@@ -427,7 +428,6 @@ A selection of major game studios, publishers, etc.:
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
-* [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real time strategy based on the original Stronghold series.  
 
 ## Others
 
