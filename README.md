@@ -1,6 +1,6 @@
-# Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+# A List of Open Source Video Games
 
-Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
+Below is a list of open source video games and game-related projects that can be found on Internet - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
 #### Contributing
 
@@ -49,7 +49,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 # Major Companies
 
-A selection of major game studios, publishers, etc. using GitHub:
+A selection of major game studios, publishers, etc.:
 
 [<img src="https://github.com/zynga.png" title="Zynga" height="50">](https://github.com/zynga)&nbsp;
 [<img src="https://github.com/mojang.png" title="Mojang" height="50">](https://github.com/mojang)&nbsp;
