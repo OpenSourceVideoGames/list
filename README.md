@@ -88,6 +88,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Avabranch](https://github.com/Zolmeister/avabranch) - GitHub Game Off 2012 entry. [Play it now!](http://avabranch.zolmeister.com/)
 * [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game. [Play it now!](http://ballandwall.com/)
 * [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
+* [CanyonRunner](https://github.com/zackproser/CanyonRunner) - A complete HTML5 game using the Phaser framework. Playable, buildable, and published as a tutorial for other game developers. JavaScript.
 * [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 * [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
 * [Ceros Snake](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game.
