@@ -294,6 +294,7 @@ A selection of major game studios, publishers, etc.:
 ## FPS
 * [AntWare](https://github.com/YamanQD/AntWare) - A made-from-scratch computer-components-themed 3D shooter.
 * [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
+* [Farbrausch demo tools](https://github.com/farbrausch/fr_public) - .kkrieger beta game in 96kb [Play it now!](https://web.archive.org/web/20100304155706/http://www.theprodukkt.com/kkrieger#20)
 * [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 * [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 * [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
