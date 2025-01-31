@@ -373,6 +373,7 @@ A selection of major game studios, publishers, etc.:
 ## Programming
 
 * [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
+* [Swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game. If you know Haskell or into functional programming this is for you!
 
 ## Sandbox
 
