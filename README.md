@@ -420,6 +420,7 @@ A selection of major game studios, publishers, etc.:
 * [Race into Space](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
 * [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
 * [Source of Tales](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
+* [Simutrans](https://github.com/simutrans/simutrans) - Simutrans is a freeware and open-source transportation simulator. Your goal is to establish a successful transport company. Transport passengers, mail and goods by rail, road, ship, and even air. Interconnect districts, cities, public buildings, industries and tourist attractions by building a transport network you always dreamed of. It's written in C++. [Play it now!](https://store.steampowered.com/app/434520/Simutrans/)
 * [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real time strategy based on the original Stronghold series. https://stone-kingdoms.gitlab.io/
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
