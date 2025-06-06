@@ -159,7 +159,7 @@ A selection of major game studios, publishers, etc.:
 
 ## FPS
 
-* [Backdooms](https://github.com/Kuberwastaken/backdooms) - Game inspired by DOOM 1993 and The Backrooms, small enough to be self contained inside a QR code.
+* [Backdooms](https://github.com/Kuberwastaken/backdooms) - Game inspired by DOOM 1993 and The Backrooms, small enough to be self contained inside a QR code. [Play it now!](https://kuber.studio/backdooms/)
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
 
 ## RPG
