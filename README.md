@@ -381,6 +381,7 @@ A selection of major game studios, publishers, etc.:
 
 * [FUE5](https://github.com/FUE5BASE/FUE5) - technically now it is some sort of tech demo [video](https://tinyurl.com/FUE5-Trailer)
 * [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
+* [Blip](https://github.com/bliporg/blip) - Blip (ex Cubzh) is a platform where players and creators come together to build, play, and share unique gaming experiences. An open-source alternative to Roblox. written in C and Lua. [Play it now!](https://store.steampowered.com/app/1386770/Blip_Open_Alpha/)
 * [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
 * [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
 * [Freeminer](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
@@ -392,7 +393,6 @@ A selection of major game studios, publishers, etc.:
 * [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
 * [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 * [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
-* [Cubzh](https://github.com/cubzh/cubzh) - Voxel UGC gaming platform written in C, C++ and Lua
 
 ## Strategy
 
