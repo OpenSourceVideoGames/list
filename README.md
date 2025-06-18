@@ -330,6 +330,7 @@ A selection of major game studios, publishers, etc.:
 * [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo I engine.
 * [Monster RPG 2](https://github.com/LibreGamesArchive/monster-rpg-2) - Turn-based J-RPG in a fantasy universe. [Libre Games](https://libregames.gitlab.io/)
 * [NetHack](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
+* [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - Open reimplementation of Might and Magic 6 7 8 game engine. Written on C++. [Play it now!](https://github.com/OpenEnroth/OpenEnroth/releases)
 * [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
 * [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus](https://github.com/christopho/solarus) engine
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
