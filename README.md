@@ -292,6 +292,7 @@ A selection of major game studios, publishers, etc.:
 * [Teeworlds](https://github.com/teeworlds/teeworlds/) - Online multi-player platform 2D shooter.
 * [Wannabe Tempest](https://github.com/awlzac/wbt) - Tempest(80's arcade game) clone in Java, and a small project for playing with git.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelite dungeon crawl shooter similar to The Binding of Isaac.
+* [Pocket Broomball](https://codeberg.org/dulvui/pocket-broomball) - The world's first broomball video game
 
 ## FPS
 * [AntWare](https://github.com/YamanQD/AntWare) - A made-from-scratch computer-components-themed 3D shooter.
@@ -308,6 +309,7 @@ A selection of major game studios, publishers, etc.:
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
+* [Skin Deep](https://github.com/blendogames/SkinDeep) - Skin Deep is an immersive first-person shooter about sneaking, subverting, and sabotaging.
 
 
 ## MMORPG
@@ -334,6 +336,8 @@ A selection of major game studios, publishers, etc.:
 * [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
 * [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus](https://github.com/christopho/solarus) engine
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
+* [Tuxemon](https://github.com/Tuxemon/Tuxemon) - Pokemon inspired game
+* [Overgrowth](https://github.com/WolfireGames/overgrowth) - Become an acrobatic ninja rabbit!
 
 ## Platform
 
@@ -350,6 +354,7 @@ A selection of major game studios, publishers, etc.:
 * [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 * [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
 * [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
+* [OpenSurge](https://github.com/alemart/opensurge) - A retro game engine inspired by Sonic games.
 
 ## Puzzle/card/board
 
@@ -372,6 +377,7 @@ A selection of major game studios, publishers, etc.:
 
 * [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
 * [SuperTuxKart](https://github.com/supertuxkart/stk-code) - Free 3D kart racing game featuring open source mascots.
+* [Pixel Wheels](https://github.com/agateau/pixelwheels) - A top-down retro racing game.
 
 ## Programming
 
@@ -396,6 +402,7 @@ A selection of major game studios, publishers, etc.:
 * [OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - This is a fork of Starbound. You must own a copy of Starbound to use it. Base game assets are not provided for obvious reasons. Written in C++.
 * [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 * [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
+* [Principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
 
 ## Strategy
 
