@@ -386,23 +386,23 @@ A selection of major game studios, publishers, etc.:
 
 ## Sandbox
 
-* [FUE5](https://github.com/FUE5BASE/FUE5) - technically now it is some sort of tech demo [video](https://tinyurl.com/FUE5-Trailer)
-* [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
+* [FUE5](https://github.com/FUE5BASE/FUE5) - technically now it is some sort of tech demo. Written in UE5, C++. [video](https://tinyurl.com/FUE5-Trailer)
+* [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine. Written in C++.
 * [Blip](https://github.com/bliporg/blip) - Blip (ex Cubzh) is a platform where players and creators come together to build, play, and share unique gaming experiences. An open-source alternative to Roblox. written in C and Lua. [Play it now!](https://store.steampowered.com/app/1386770/Blip_Open_Alpha/)
 * [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
 * [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
 * [Freeminer](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
 * [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
-* [Manic Digger](https://github.com/manicdigger/manicdigger) - A multiplayer block-building voxel game, Minecraft clone.
-* [Minetest](https://github.com/minetest/minetest) - Infinite-world block sandbox game with survival and crafting.
+* [Manic Digger](https://github.com/manicdigger/manicdigger) - A multiplayer block-building voxel game, Minecraft clone. Written in C#.
+* [Luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation. Written in C++.
 * [Pycraft](https://github.com/itsapi/pycraft) - A Minecraft-inspired game for the terminal.
 * [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) - Soft-Body physics simulator for vehicles and more.
-* [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
+* [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space. Written in C#.
 * [Starbound](https://github.com/rwf93/Starbound) - Starbound is a 2D sandbox adventure game where players explore a vast procedurally generated universe. Written in C/C++.
 * [OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - This is a fork of Starbound. You must own a copy of Starbound to use it. Base game assets are not provided for obvious reasons. Written in C++.
-* [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
-* [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
-* [Principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
+* [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility. Written in Java.
+* [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game. Written in C/C++.
+* [Principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game. Written in C/C++.
 
 ## Strategy
 
