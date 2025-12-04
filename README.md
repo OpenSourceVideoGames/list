@@ -36,6 +36,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Puzzle/card/board](#user-content-puzzlecardboard)
   - [Programming](#user-content-programming)
   - [Sandbox](#user-content-sandbox-1)
+  - [Simulation](#simulation)
   - [Strategy](#user-content-strategy-1)
 - [Mobile Games](#user-content-mobile-games)
   - [Android](#user-content-android)
@@ -403,6 +404,11 @@ A selection of major game studios, publishers, etc.:
 * [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility. Written in Java.
 * [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game. Written in C/C++.
 * [Principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game. Written in C/C++.
+
+### Simulation
+
+- [Hurry Curry!](https://codeberg.org/hurrycurry/hurrycurry) - Cooperative fast-paced multiplayer cooking game. Written on Godot in Rust & GDScript. [Play it now!](https://hurrycurry.org/)
+
 
 ## Strategy
 
