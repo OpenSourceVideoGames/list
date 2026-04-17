@@ -38,6 +38,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Sandbox](#user-content-sandbox-1)
   - [Simulation](#simulation)
   - [Strategy](#user-content-strategy-1)
+  - [VR](#user-content-vr)
 - [Mobile Games](#user-content-mobile-games)
   - [Android](#user-content-android)
   - [IOS](#user-content-ios)
@@ -448,6 +449,12 @@ A selection of major game studios, publishers, etc.:
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
+
+## VR
+
+* [AbstractInvadersVR](https://github.com/guneyozsan/AbstractInvadersVR) - VR shooter created for Global Game Jam 2017.
+* [ergo](https://github.com/alvinwan/ergo) - Endless runner game in virtual reality. [Play it now!](https://alvinwan.com/ergo)
+* [vin-carnival](https://github.com/computationalcore/vin-carnival) - Non-profit open-source virtual reality game made with Unity 3D and GoogleVR.
 
 ## Others
 
