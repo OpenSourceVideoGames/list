@@ -135,7 +135,7 @@ A selection of major game studios, publishers, etc.:
 * [Newton Adventure](https://github.com/devnewton/newton_adventure) - Play Newton, a very special hero who has the power to change gravity direction! [Play it now!](http://play.bci.im/newton_adventure/)
 * [Octocat Jump](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://ogoshen.github.io/game-off-2012/)
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play it now!](http://arcade.lostdecadegames.com/onslaught_arena/)
-* [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
+* [Pappu Pakia](https://github.com/udacity/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
 * [Phaser Snake](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
 * [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demonstrates the power of the Entity game engine.
 * [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
@@ -213,7 +213,7 @@ A selection of major game studios, publishers, etc.:
 * [Couch 2048](https://github.com/mvasilkov/glitch2016) - A physics-based puzzle, loosely related to the original 2048 game. [Play it now!](http://js13kgames.com/games/couch-2048/index.html)
 * [cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming. [Play it now!](http://david-peter.de/cube-composer)
 * [Drunken Viking](https://github.com/cxong/DrunkenViking) - Retrace your drunken rampage in reverse time. [Play it now!](http://congusbongus.itch.io/drunken-viking)
-* [Ending](http://robotacid.com/flash/ending) - Roguelike puzzle game. [Play it now!](http://robotacid.com/flash/ending/)
+* [Ending](https://github.com/st33d/Ending) - Roguelike puzzle game. [Play it now!](http://robotacid.com/flash/ending/)
 * [Follow me! A Simon Clone](https://github.com/gamedolphin/follow_me_javascript_simon_clone) - Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine.
 * [For King](https://github.com/AD1337/ForKingGame) - Puzzle platformer game about a king in search for his lost crown. [Play it now!](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0)
 * [Genetic Drift](https://github.com/DancingBanana/genetic-drift) - Victor, an annoyed janitor dealing with a lot of annoyed clones and the problems that inevitably arise from genetic duplication. Will he make it home to feed his faithful pet companion?
@@ -222,9 +222,7 @@ A selection of major game studios, publishers, etc.:
 * [Hextris](https://github.com/Hextris/hextris) - Addictive puzzle game inspired by Tetris. [Play it now!](http://hextris.io/)
 * [Infectors](https://github.com/satanas/infectors) - Sokoban-like puzzle game developed with Phaser. [Play it now!](http://satanas.github.io/infectors/)
 * [Lost! Beneath the Surface](https://github.com/gamedolphin/Lost-Beneath-The-Surface) - You're a firefly lost in the dark, beneath the surface and must find a way out of the mazes created by the horrors in the dark.
-* [Maze 3D](https://github.com/demonixis/Maze3D) - A 3D maze game. [Play it now!](http://demonixis.github.io/Maze3D/)
 * [Monkey Rally](https://github.com/antila/ludum-dare-28) - JavaScript game created for the Ludum Dare #28 jam. [Play it now!](http://antila.github.io/ludum-dare-28/)
-* [Ned Et Les Maki](https://github.com/devnewton/nedetlesmaki) - Puzzle game with isometric 3D graphics inspired by Sokoban. [Play it now!](http://play.bci.im/nedetlesmaki/)
 * [Orbium](https://github.com/bni/orbium) - Modern version of the 90's game Log!cal. [Play it now!](http://bni.github.io/orbium/)
 * [Parity](https://github.com/abejfehr/parity) - A numbers puzzle game. [Play it now!](http://abefehr.com/parity/)
 * [Pond](https://github.com/Zolmeister/pond) - A narrow fellow in the Pond. [Play it now!](http://thepond.zolmeister.com/)
@@ -279,7 +277,6 @@ A selection of major game studios, publishers, etc.:
 * [Double Damnation](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Movement as smooth as Smash Bros Melee. Written in C# [Play it now!](https://store.steampowered.com/app/1015190/Double_Damnation/)
 * [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
 * [Duckmarines](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
-* [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
 * [Falling Time](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
 * [Furious Chicks](https://github.com/Red1C3/furious-chicks) - 3D Angry Birds clone, with from-scratch physics engine and pseudorandom level generation.
 * [Go Pong](https://github.com/Red1C3/go-pong) - Pong clone, made from scratch with local and online multiplayer.
@@ -307,11 +304,11 @@ A selection of major game studios, publishers, etc.:
 * [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
 * [OpenLara](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine [Play it now!](http://xproger.info/projects/OpenLara/)
 * [openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
-* [Red Eclipse](https://github.com/red-eclipse) - Free, casual arena shooter featuring parkour.
+* [Red Eclipse](https://github.com/redeclipse/base) - Free, casual arena shooter featuring parkour.
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - Semi-realistic simulation of the "Old West's" great atmosphere.
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
-* [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
+* [Warsow](https://github.com/Warsow/qfusion) - Fast-paced FPS in a futuristic cartoonish world.
 * [Skin Deep](https://github.com/blendogames/SkinDeep) - Skin Deep is an immersive first-person shooter about sneaking, subverting, and sabotaging.
 
 
@@ -344,7 +341,6 @@ A selection of major game studios, publishers, etc.:
 
 ## Platform
 
-* [Captain Holetooth](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
 * [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
 * [Elemental One](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework. [Play it now!](http://skepsi.me/elemental-one/)
 * [Escape of the cat](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
@@ -446,7 +442,7 @@ A selection of major game studios, publishers, etc.:
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 * [TripleA](https://github.com/triplea-game/triplea) - Turn based strategy game and board game engine, similar to Axis & Allies or Risk. 
-* [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
+* [Unknown Horizons](https://github.com/unknown-horizons/unknown-horizons) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
 * [Wargus](https://github.com/Wargus/wargus) - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
