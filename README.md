@@ -498,6 +498,7 @@ A selection of major game studios, publishers, etc.:
 ## Others
 
  * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
+ * [Saint Aveline](https://github.com/DogFingerStudios/saintaveline) - First-person survival horror game set on a remote island where isolation and scarcity are constant threats.
 
 # Mobile Games
 
