@@ -482,7 +482,6 @@ A selection of major game studios, publishers, etc.:
 * [pigpoppa](https://github.com/elocnatsirt/pigpoppa) - VR game created for Godot Wild Jam #22. Written in Godot. [Play it now!](https://elocnat.itch.io/pigpoppa)
 * [Puzzle-Vault-Expedition](https://github.com/hxqqqqqqqq/Puzzle-Vault-Expedition) - Escape-room puzzle game project. Written in web technologies.
 * [RocketMan-a-VR-videogame-created-with-Unity](https://github.com/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity) - Virtual reality escape-room-like game for Oculus Quest built with Unity. Written in Unity.
-* [snowden](https://github.com/miozilla/snowden) - VR game project. Written in SQL.
 * [Terminal](https://github.com/danielcolinjames/Terminal) - Virtual reality puzzle game built in Unity. Written in Unity.
 * [The-Art-Inspector](https://github.com/chubozeko/The-Art-Inspector) - VR game about identifying and organizing real art pieces from fake ones. Written in Unity.
 * [Tiny-Winter-Scare-VR](https://github.com/JeromeTDev/Tiny-Winter-Scare-VR) - Small VR jump-scare game built in Unity on Linux. Written in Unity.
