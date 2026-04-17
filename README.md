@@ -452,18 +452,48 @@ A selection of major game studios, publishers, etc.:
 
 ## VR
 
+* [270Tetris](https://github.com/dschoeneborn/270Tetris) - VR take on classic Tetris.
+* [3D-Modeling-VR](https://github.com/mari-rmrz/3D-Modeling-VR) - Portfolio and development journal for a VR game project.
 * [adaptive-vr-game](https://github.com/PedroBarcha/adaptive-vr-game) - Educational Android VR game designed for people with neurodevelopmental disorders.
 * [AbstractInvadersVR](https://github.com/guneyozsan/AbstractInvadersVR) - VR shooter created for Global Game Jam 2017.
+* [AirAttack](https://github.com/Vova-SH/AirAttack) - Gear VR game created for the 2018 VR 360 School Contest.
+* [Arcadium](https://github.com/NeonVhenan/Arcadium) - VR app/game created as part of an MSc course.
+* [CatcherVRGame](https://github.com/nntdoan/CatcherVRGame) - VR game project.
+* [cardboard](https://github.com/1j01/cardboard) - Early browser-based VR tunnel game experiment. [Play it now!](http://1j01.github.io/cardboard/)
 * [CaveTerrors-VR](https://github.com/Z-ANESaber/CaveTerrors-VR) - Minecraft-inspired horror game with VR support.
 * [Cindy-s-Bad-Luck-BLS-VR](https://github.com/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR) - VR game for learning basic life-support maneuvers.
+* [CloudeLand-project](https://github.com/GigaFlopsis/CloudeLand-project) - CloudLand VR game for Daydream and Cardboard.
+* [Cuteness-Overdose-Vr](https://github.com/hendzormati/Cuteness-Overdose-Vr) - Meta Quest 3 VR game about smashing cupcakes in a shifting pastel-horror setting.
+* [Dodge-Ball](https://github.com/SarathChandraKaza/Dodge-Ball) - Single-player dodgeball game for Oculus devices.
 * [EcoHome](https://github.com/htl-leo-itp-2325-4-5BHITM/EcoHome) - Unity VR game about everyday sustainability. [Play it now!](https://ecohome.itch.io/ecohome)
+* [Escape-the-Room](https://github.com/Cranesec/Escape-the-Room) - Immersive mystery VR escape-room game.
+* [Final-VR-Project](https://github.com/YesItsSKM/Final-VR-Project) - Final MSc VR/AR project.
+* [GodescXR](https://github.com/sorokivski/GodescXR) - VR game project. [Play it now!](https://sorokivski.itch.io/godescxr)
 * [Graveyard-Roller-Coaster](https://github.com/ShutovKS/Graveyard-Roller-Coaster) - Short cinematic VR roller-coaster game set in a graveyard.
+* [HandTracked-Virtual-Body-VR](https://github.com/YesItsSKM/HandTracked-Virtual-Body-VR) - VR game prototype focused on hand-tracked embodiment and IK body interaction.
 * [invaderInVR](https://github.com/fgadea/invaderInVR) - Unity VR game inspired by classic Space Invaders.
+* [king-of-kitchen](https://github.com/maxolib/king-of-kitchen) - VR kitchen game project.
 * [MarcoSmiles-RhythmGame](https://github.com/UmbertoDellaMonica/MarcoSmiles-RhythmGame) - VR rhythm platformer using Unity hand tracking and a FastAPI backend.
 * [MechaRacer](https://github.com/chubozeko/MechaRacer) - VR racing game about driving a toy car and hitting mech robots.
 * [mern-vrgame](https://github.com/shamahoque/mern-vrgame) - MERN-stack VR game for the web. [Play it now!](http://vrgame2.mernbook.com)
+* [mind-remnants](https://github.com/KatyaZubareva/mind-remnants) - VR game project.
+* [Mission_Impossible](https://github.com/Shawn0791/Mission_Impossible) - Giant-room-concept VR game. [Play it now!](https://shawnjobseeking.itch.io/mission-impossible-vr)
+* [Modern-Cupid-VR](https://github.com/sarasmajic/Modern-Cupid-VR) - VR game built in Unity.
+* [pigpoppa](https://github.com/elocnatsirt/pigpoppa) - VR game created for Godot Wild Jam #22. [Play it now!](https://elocnat.itch.io/pigpoppa)
+* [Puzzle-Vault-Expedition](https://github.com/hxqqqqqqqq/Puzzle-Vault-Expedition) - Escape-room puzzle game project.
+* [RocketMan-a-VR-videogame-created-with-Unity](https://github.com/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity) - Virtual reality escape-room-like game for Oculus Quest built with Unity.
+* [snowden](https://github.com/miozilla/snowden) - VR game project.
+* [Terminal](https://github.com/danielcolinjames/Terminal) - Virtual reality puzzle game built in Unity.
 * [The-Art-Inspector](https://github.com/chubozeko/The-Art-Inspector) - VR game about identifying and organizing real art pieces from fake ones.
 * [Tiny-Winter-Scare-VR](https://github.com/JeromeTDev/Tiny-Winter-Scare-VR) - Small VR jump-scare game built in Unity on Linux.
+* [UMN-VR-Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App) - Open-sourced proof of concept for a photogrammetry-based Quest 2 VR experience.
+* [valentines-vr](https://github.com/urish/valentines-vr) - Small VR heart-collecting game built with A-Frame. [Play it now!](https://urish.github.io/valentines-vr/)
+* [VR-AR-Game](https://github.com/alisatodorova/VR-AR-Game) - Unity game created for a virtual and augmented reality course.
+* [VR-Escape-Room](https://github.com/AB-Pop/VR-Escape-Room) - Virtual escape-room project made for school.
+* [vr-game](https://github.com/agrawalTanish/vr-game) - Interactive browser-based VR game experience with responsive UI and real-time interaction. [Play it now!](https://tanishvrgame.netlify.app/)
+* [vr-gardengame](https://github.com/faadil1999/vr-gardengame) - VR garden game project.
+* [VR-math-game](https://github.com/Robin-qwerty/VR-math-game) - VR math game for Meta Quest 2.
+* [VR-Wheelchair-Ping-Pong](https://github.com/PaulEdwardMurariu/VR-Wheelchair-Ping-Pong) - VR ping-pong game for wheelchair users.
 * [vr-war-drum](https://github.com/kahogeoff/vr-war-drum) - VR rhythm game inspired by Taiko No Tatsujin and Taikojiro.
 
 ## Others
