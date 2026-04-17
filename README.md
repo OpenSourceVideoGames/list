@@ -453,7 +453,7 @@ A selection of major game studios, publishers, etc.:
 ## VR
 
 * [270Tetris](https://github.com/dschoeneborn/270Tetris) - VR take on classic Tetris. Written in Unity.
-* [3D-Modeling-VR](https://github.com/mari-rmrz/3D-Modeling-VR) - Portfolio and development journal for a VR game project. Written in Unity.
+* [3D Modeling VR](https://github.com/mari-rmrz/3D-Modeling-VR) - Portfolio and development journal for a VR game project. Written in Unity.
 * [adaptive-vr-game](https://github.com/PedroBarcha/adaptive-vr-game) - Educational Android VR game designed for people with neurodevelopmental disorders. Written in Unity.
 * [AbstractInvadersVR](https://github.com/guneyozsan/AbstractInvadersVR) - VR shooter created for Global Game Jam 2017. Written in Unity.
 * [AirAttack](https://github.com/Vova-SH/AirAttack) - Gear VR game created for the 2018 VR 360 School Contest. Written in Unity.
@@ -461,39 +461,39 @@ A selection of major game studios, publishers, etc.:
 * [CatcherVRGame](https://github.com/nntdoan/CatcherVRGame) - VR game project. Written in Unity.
 * [cardboard](https://github.com/1j01/cardboard) - Early browser-based VR tunnel game experiment. Written in HTML/JavaScript. [Play it now!](http://1j01.github.io/cardboard/)
 * [CaveTerrors-VR](https://github.com/Z-ANESaber/CaveTerrors-VR) - Minecraft-inspired horror game with VR support. Written in Unity.
-* [Cindy-s-Bad-Luck-BLS-VR](https://github.com/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR) - VR game for learning basic life-support maneuvers. Written in Unity.
-* [CloudeLand-project](https://github.com/GigaFlopsis/CloudeLand-project) - CloudLand VR game for Daydream and Cardboard. Written in Unity.
-* [Cuteness-Overdose-Vr](https://github.com/hendzormati/Cuteness-Overdose-Vr) - Meta Quest 3 VR game about smashing cupcakes in a shifting pastel-horror setting. Written in Unity.
+* [Cindy's Bad Luck](https://github.com/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR) - VR game for learning basic life-support maneuvers. Written in Unity.
+* [CloudLand](https://github.com/GigaFlopsis/CloudeLand-project) - CloudLand VR game for Daydream and Cardboard. Written in Unity.
+* [Cuteness Overdose VR](https://github.com/hendzormati/Cuteness-Overdose-Vr) - Meta Quest 3 VR game about smashing cupcakes in a shifting pastel-horror setting. Written in Unity.
 * [Dodge-Ball](https://github.com/SarathChandraKaza/Dodge-Ball) - Single-player dodgeball game for Oculus devices. Written in Unity.
 * [EcoHome](https://github.com/htl-leo-itp-2325-4-5BHITM/EcoHome) - Unity VR game about everyday sustainability. Written in Unity. [Play it now!](https://ecohome.itch.io/ecohome)
-* [Escape-the-Room](https://github.com/Cranesec/Escape-the-Room) - Immersive mystery VR escape-room game. Written in Python.
-* [Final-VR-Project](https://github.com/YesItsSKM/Final-VR-Project) - Final MSc VR/AR project. Written in Unity.
+* [Escape the Room](https://github.com/Cranesec/Escape-the-Room) - Immersive mystery VR escape-room game. Written in Python.
+* [Final VR Project](https://github.com/YesItsSKM/Final-VR-Project) - Final MSc VR/AR project. Written in Unity.
 * [GodescXR](https://github.com/sorokivski/GodescXR) - VR game project. Written in Godot. [Play it now!](https://sorokivski.itch.io/godescxr)
 * [Graveyard-Roller-Coaster](https://github.com/ShutovKS/Graveyard-Roller-Coaster) - Short cinematic VR roller-coaster game set in a graveyard. Written in Unity.
-* [HandTracked-Virtual-Body-VR](https://github.com/YesItsSKM/HandTracked-Virtual-Body-VR) - VR game prototype focused on hand-tracked embodiment and IK body interaction. Written in Unity.
+* [Hand-Tracked Virtual Body for VR Experiences](https://github.com/YesItsSKM/HandTracked-Virtual-Body-VR) - VR game prototype focused on hand-tracked embodiment and IK body interaction. Written in Unity.
 * [invaderInVR](https://github.com/fgadea/invaderInVR) - Unity VR game inspired by classic Space Invaders. Written in Unity.
 * [king-of-kitchen](https://github.com/maxolib/king-of-kitchen) - VR kitchen game project. Written in Unity.
 * [MarcoSmiles-RhythmGame](https://github.com/UmbertoDellaMonica/MarcoSmiles-RhythmGame) - VR rhythm platformer using Unity hand tracking and a FastAPI backend. Written in Unity and FastAPI.
 * [MechaRacer](https://github.com/chubozeko/MechaRacer) - VR racing game about driving a toy car and hitting mech robots. Written in Unity.
-* [mern-vrgame](https://github.com/shamahoque/mern-vrgame) - MERN-stack VR game for the web. Written in JavaScript (MERN). [Play it now!](http://vrgame2.mernbook.com)
+* [MERN VR Game 2.0](https://github.com/shamahoque/mern-vrgame) - MERN-stack VR game for the web. Written in JavaScript (MERN). [Play it now!](http://vrgame2.mernbook.com)
 * [mind-remnants](https://github.com/KatyaZubareva/mind-remnants) - VR game project. Written in Unity.
 * [Mission_Impossible](https://github.com/Shawn0791/Mission_Impossible) - Giant-room-concept VR game. Written in Unity. [Play it now!](https://shawnjobseeking.itch.io/mission-impossible-vr)
 * [Modern-Cupid-VR](https://github.com/sarasmajic/Modern-Cupid-VR) - VR game built in Unity. Written in Unity.
 * [pigpoppa](https://github.com/elocnatsirt/pigpoppa) - VR game created for Godot Wild Jam #22. Written in Godot. [Play it now!](https://elocnat.itch.io/pigpoppa)
-* [Puzzle-Vault-Expedition](https://github.com/hxqqqqqqqq/Puzzle-Vault-Expedition) - Escape-room puzzle game project. Written in web technologies.
-* [RocketMan-a-VR-videogame-created-with-Unity](https://github.com/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity) - Virtual reality escape-room-like game for Oculus Quest built with Unity. Written in Unity.
+* [Mindscape: The Cognitive Labyrinth](https://github.com/hxqqqqqqqq/Puzzle-Vault-Expedition) - Escape-room puzzle game project. Written in web technologies.
+* [RocketMan](https://github.com/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity) - Virtual reality escape-room-like game for Oculus Quest built with Unity. Written in Unity.
 * [Terminal](https://github.com/danielcolinjames/Terminal) - Virtual reality puzzle game built in Unity. Written in Unity.
 * [The-Art-Inspector](https://github.com/chubozeko/The-Art-Inspector) - VR game about identifying and organizing real art pieces from fake ones. Written in Unity.
-* [Tiny-Winter-Scare-VR](https://github.com/JeromeTDev/Tiny-Winter-Scare-VR) - Small VR jump-scare game built in Unity on Linux. Written in Unity.
-* [UMN-VR-Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App) - Open-sourced proof of concept for a photogrammetry-based Quest 2 VR experience. Written in Unity and WebXR. [Play it now!](https://umn-vr.github.io/WebGL_Demo/)
-* [valentines-vr](https://github.com/urish/valentines-vr) - Small VR heart-collecting game built with A-Frame. Written in A-Frame. [Play it now!](https://urish.github.io/valentines-vr/)
-* [VR-AR-Game](https://github.com/alisatodorova/VR-AR-Game) - Unity game created for a virtual and augmented reality course. Written in Unity.
-* [VR-Escape-Room](https://github.com/AB-Pop/VR-Escape-Room) - Virtual escape-room project made for school. Written in Unity.
-* [vr-game](https://github.com/agrawalTanish/vr-game) - Interactive browser-based VR game experience with responsive UI and real-time interaction. Written in HTML/JavaScript. [Play it now!](https://tanishvrgame.netlify.app/)
+* [Tiny Winter Scare VR](https://github.com/JeromeTDev/Tiny-Winter-Scare-VR) - Small VR jump-scare game built in Unity on Linux. Written in Unity.
+* [UMN VR Quest 2 Photogrammetry Demo](https://github.com/UMN-VR/UMN-VR-Quest-2-App) - Open-sourced proof of concept for a photogrammetry-based Quest 2 VR experience. Written in Unity and WebXR. [Play it now!](https://umn-vr.github.io/WebGL_Demo/)
+* [VORD](https://github.com/urish/valentines-vr) - Small VR heart-collecting game built with A-Frame. Written in A-Frame. [Play it now!](https://urish.github.io/valentines-vr/)
+* [VR AR Game](https://github.com/alisatodorova/VR-AR-Game) - Unity game created for a virtual and augmented reality course. Written in Unity.
+* [VR Escape Room](https://github.com/AB-Pop/VR-Escape-Room) - Virtual escape-room project made for school. Written in Unity.
+* [VR Game](https://github.com/agrawalTanish/vr-game) - Interactive browser-based VR game experience with responsive UI and real-time interaction. Written in HTML/JavaScript. [Play it now!](https://tanishvrgame.netlify.app/)
 * [vr-gardengame](https://github.com/faadil1999/vr-gardengame) - VR garden game project. Written in Unity.
-* [VR-math-game](https://github.com/Robin-qwerty/VR-math-game) - VR math game for Meta Quest 2. Written in Unity.
+* [VR Math Shooter](https://github.com/Robin-qwerty/VR-math-game) - VR math game for Meta Quest 2. Written in Unity.
 * [VR-Wheelchair-Ping-Pong](https://github.com/PaulEdwardMurariu/VR-Wheelchair-Ping-Pong) - VR ping-pong game for wheelchair users. Written in Unity.
-* [vr-war-drum](https://github.com/kahogeoff/vr-war-drum) - VR rhythm game inspired by Taiko No Tatsujin and Taikojiro. Written in Unity.
+* [VR War Drum](https://github.com/kahogeoff/vr-war-drum) - VR rhythm game inspired by Taiko No Tatsujin and Taikojiro. Written in Unity.
 
 ## Others
 
