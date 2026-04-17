@@ -432,6 +432,7 @@ A selection of major game studios, publishers, etc.:
 * [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of the original X-COM.
 * [Pax Britannica](https://github.com/henkboom/pax-britannica) - Underwater one-button real-time strategy game.
 * [PCOTM (Phone Case of the Monster)](https://github.com/jwoertink/pcotm) - Ruby game, where you play as a phone-collecting monster.
+* [Pikifen](https://github.com/Espyo/Pikifen) - Open-source Pikmin-inspired strategy game and engine for creating and playing custom fan content.
 * [Pioneer](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
 * [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - Physics platform game about a plucky wheeled robot named Polly.
 * [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2.
