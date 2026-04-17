@@ -486,7 +486,7 @@ A selection of major game studios, publishers, etc.:
 * [Terminal](https://github.com/danielcolinjames/Terminal) - Virtual reality puzzle game built in Unity.
 * [The-Art-Inspector](https://github.com/chubozeko/The-Art-Inspector) - VR game about identifying and organizing real art pieces from fake ones.
 * [Tiny-Winter-Scare-VR](https://github.com/JeromeTDev/Tiny-Winter-Scare-VR) - Small VR jump-scare game built in Unity on Linux.
-* [UMN-VR-Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App) - Open-sourced proof of concept for a photogrammetry-based Quest 2 VR experience.
+* [UMN-VR-Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App) - Open-sourced proof of concept for a photogrammetry-based Quest 2 VR experience. [Play it now!](https://umn-vr.github.io/WebGL_Demo/)
 * [valentines-vr](https://github.com/urish/valentines-vr) - Small VR heart-collecting game built with A-Frame. [Play it now!](https://urish.github.io/valentines-vr/)
 * [VR-AR-Game](https://github.com/alisatodorova/VR-AR-Game) - Unity game created for a virtual and augmented reality course.
 * [VR-Escape-Room](https://github.com/AB-Pop/VR-Escape-Room) - Virtual escape-room project made for school.
