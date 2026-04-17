@@ -454,7 +454,7 @@ A selection of major game studios, publishers, etc.:
 
 * [270Tetris](https://github.com/dschoeneborn/270Tetris) - VR take on classic Tetris. Written in Unity.
 * [3D Modeling VR](https://github.com/mari-rmrz/3D-Modeling-VR) - Portfolio and development journal for a VR game project. Written in Unity.
-* [adaptive-vr-game](https://github.com/PedroBarcha/adaptive-vr-game) - Educational Android VR game designed for people with neurodevelopmental disorders. Written in Unity.
+* [Adaptive Virtual Reality Educational Game](https://github.com/PedroBarcha/adaptive-vr-game) - Educational Android VR game designed for people with neurodevelopmental disorders. Written in Unity.
 * [AbstractInvadersVR](https://github.com/guneyozsan/AbstractInvadersVR) - VR shooter created for Global Game Jam 2017. Written in Unity.
 * [AirAttack](https://github.com/Vova-SH/AirAttack) - Gear VR game created for the 2018 VR 360 School Contest. Written in Unity.
 * [Arcadium](https://github.com/NeonVhenan/Arcadium) - VR app/game created as part of an MSc course. Written in Unity.
@@ -479,7 +479,7 @@ A selection of major game studios, publishers, etc.:
 * [mind-remnants](https://github.com/KatyaZubareva/mind-remnants) - VR game project. Written in Unity.
 * [Mission_Impossible](https://github.com/Shawn0791/Mission_Impossible) - Giant-room-concept VR game. Written in Unity. [Play it now!](https://shawnjobseeking.itch.io/mission-impossible-vr)
 * [Modern-Cupid-VR](https://github.com/sarasmajic/Modern-Cupid-VR) - VR game built in Unity. Written in Unity.
-* [pigpoppa](https://github.com/elocnatsirt/pigpoppa) - VR game created for Godot Wild Jam #22. Written in Godot. [Play it now!](https://elocnat.itch.io/pigpoppa)
+* [Pig Poppa](https://github.com/elocnatsirt/pigpoppa) - VR game created for Godot Wild Jam #22. Written in Godot. [Play it now!](https://elocnat.itch.io/pigpoppa)
 * [Mindscape: The Cognitive Labyrinth](https://github.com/hxqqqqqqqq/Puzzle-Vault-Expedition) - Escape-room puzzle game project. Written in web technologies.
 * [RocketMan](https://github.com/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity) - Virtual reality escape-room-like game for Oculus Quest built with Unity. Written in Unity.
 * [Terminal](https://github.com/danielcolinjames/Terminal) - Virtual reality puzzle game built in Unity. Written in Unity.
