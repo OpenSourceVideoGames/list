@@ -458,13 +458,13 @@ A selection of major game studios, publishers, etc.:
 * [AbstractInvadersVR](https://github.com/guneyozsan/AbstractInvadersVR) - VR shooter created for Global Game Jam 2017. Written in Unity.
 * [AirAttack](https://github.com/Vova-SH/AirAttack) - Gear VR game created for the 2018 VR 360 School Contest. Written in Unity.
 * [Arcadium](https://github.com/NeonVhenan/Arcadium) - VR app/game created as part of an MSc course. Written in Unity.
-* [CatcherVRGame](https://github.com/nntdoan/CatcherVRGame) - VR game project. Written in C#.
+* [CatcherVRGame](https://github.com/nntdoan/CatcherVRGame) - VR game project. Written in Unity.
 * [cardboard](https://github.com/1j01/cardboard) - Early browser-based VR tunnel game experiment. Written in HTML/JavaScript. [Play it now!](http://1j01.github.io/cardboard/)
 * [CaveTerrors-VR](https://github.com/Z-ANESaber/CaveTerrors-VR) - Minecraft-inspired horror game with VR support. Written in Unity.
 * [Cindy-s-Bad-Luck-BLS-VR](https://github.com/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR) - VR game for learning basic life-support maneuvers. Written in Unity.
 * [CloudeLand-project](https://github.com/GigaFlopsis/CloudeLand-project) - CloudLand VR game for Daydream and Cardboard. Written in Unity.
 * [Cuteness-Overdose-Vr](https://github.com/hendzormati/Cuteness-Overdose-Vr) - Meta Quest 3 VR game about smashing cupcakes in a shifting pastel-horror setting. Written in Unity.
-* [Dodge-Ball](https://github.com/SarathChandraKaza/Dodge-Ball) - Single-player dodgeball game for Oculus devices. Written in C#.
+* [Dodge-Ball](https://github.com/SarathChandraKaza/Dodge-Ball) - Single-player dodgeball game for Oculus devices. Written in Unity.
 * [EcoHome](https://github.com/htl-leo-itp-2325-4-5BHITM/EcoHome) - Unity VR game about everyday sustainability. Written in Unity. [Play it now!](https://ecohome.itch.io/ecohome)
 * [Escape-the-Room](https://github.com/Cranesec/Escape-the-Room) - Immersive mystery VR escape-room game. Written in Python.
 * [Final-VR-Project](https://github.com/YesItsSKM/Final-VR-Project) - Final MSc VR/AR project. Written in Unity.
