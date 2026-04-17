@@ -458,7 +458,7 @@ A selection of major game studios, publishers, etc.:
 * [Abstract Invaders VR](https://github.com/guneyozsan/AbstractInvadersVR) - VR shooter created for Global Game Jam 2017. Written in Unity.
 * [AirAttack](https://github.com/Vova-SH/AirAttack) - Gear VR game created for the 2018 VR 360 School Contest. Written in Unity.
 * [Arcadium](https://github.com/NeonVhenan/Arcadium) - VR app/game created as part of an MSc course. Written in Unity.
-* [CatcherVRGame](https://github.com/nntdoan/CatcherVRGame) - VR game project. Written in Unity.
+* [TrashCatcher](https://github.com/nntdoan/CatcherVRGame) - VR game project. Written in Unity.
 * [cardboard](https://github.com/1j01/cardboard) - Early browser-based VR tunnel game experiment. Written in HTML/JavaScript. [Play it now!](http://1j01.github.io/cardboard/)
 * [CaveTerrors-VR](https://github.com/Z-ANESaber/CaveTerrors-VR) - Minecraft-inspired horror game with VR support. Written in Unity.
 * [Cindy's Bad Luck](https://github.com/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR) - VR game for learning basic life-support maneuvers. Written in Unity.
@@ -487,7 +487,7 @@ A selection of major game studios, publishers, etc.:
 * [Tiny Winter Scare VR](https://github.com/JeromeTDev/Tiny-Winter-Scare-VR) - Small VR jump-scare game built in Unity on Linux. Written in Unity.
 * [UMN VR Quest 2 Photogrammetry Demo](https://github.com/UMN-VR/UMN-VR-Quest-2-App) - Open-sourced proof of concept for a photogrammetry-based Quest 2 VR experience. Written in Unity and WebXR. [Play it now!](https://umn-vr.github.io/WebGL_Demo/)
 * [VORD](https://github.com/urish/valentines-vr) - Small VR heart-collecting game built with A-Frame. Written in A-Frame. [Play it now!](https://urish.github.io/valentines-vr/)
-* [VR AR Game](https://github.com/alisatodorova/VR-AR-Game) - Unity game created for a virtual and augmented reality course. Written in Unity.
+* [VR-AR-Game](https://github.com/alisatodorova/VR-AR-Game) - Unity game created for a virtual and augmented reality course. Written in Unity.
 * [VR Escape Room](https://github.com/AB-Pop/VR-Escape-Room) - Virtual escape-room project made for school. Written in Unity.
 * [VR Game](https://github.com/agrawalTanish/vr-game) - Interactive browser-based VR game experience with responsive UI and real-time interaction. Written in HTML/JavaScript. [Play it now!](https://tanishvrgame.netlify.app/)
 * [vr-gardengame](https://github.com/faadil1999/vr-gardengame) - VR garden game project. Written in Unity.
