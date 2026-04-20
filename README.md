@@ -267,6 +267,7 @@ A selection of major game studios, publishers, etc.:
 # Native
 
 ## Action
+* [Man of Steel](https://github.com/ProdiG66/ManOfSteel) - Open-source Unreal Engine 5 prototype featuring Superman gameplay mechanics like flight, heat vision, and basic combat.
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
 
 ## Arcade
