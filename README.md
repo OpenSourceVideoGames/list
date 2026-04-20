@@ -412,6 +412,7 @@ A selection of major game studios, publishers, etc.:
 ## Strategy
 
 * [0 A.D.](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II
+* [Beyond All Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Open-source RTS built on top of the Recoil RTS engine.
 * [Caesaria](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
 * [Colobot](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
@@ -611,6 +612,7 @@ A selection of major game studios, publishers, etc.:
 * [PlayCanvas](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
 * [QICI Engine](https://github.com/qiciengine/qiciengine) - free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
+* [RecoilEngine](https://github.com/beyond-all-reason/RecoilEngine) - Free cross-platform RTS engine that powers Beyond All Reason.
 * [Ren'py](https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
 * [Solarus](https://github.com/christopho/solarus) - An Action-RPG game engine written in C++.
