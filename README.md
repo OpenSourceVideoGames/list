@@ -324,7 +324,7 @@ A selection of major game studios, publishers, etc.:
 * [Angband](https://github.com/angband/angband) - Single-player dungeon exploration game in the universe of JRR Tolkien.
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) - Roguelike set in a post-apocalyptic world.
-* [Chasm](https://github.com/atisharma/chasm) - Generative text adventure client with persistent world state, characters, and quests.
+* [Chasm](https://github.com/atisharma/chasm) - Open-source generative text adventure client with persistent world state, characters, and quests.
 * [Cendric](https://github.com/tizian/Cendric2) - Platformer-RPG in a fantasy setting with puzzle elements.
 * [Crystal Picnic](https://github.com/LibreGamesArchive/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs. Created by [Libre Games](https://libregames.gitlab.io/)
 * [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) - Single-player roguelike dungeon exploration game with a larger focus on combat compared to other popular roguelikes.
