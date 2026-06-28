@@ -404,6 +404,7 @@ A selection of major game studios, publishers, etc.:
 * [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility. Written in Java.
 * [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game. Written in C/C++.
 * [Principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game. Written in C/C++.
+* [Blocks Beyond the Stars](https://github.com/marceld23/BlocksBeyondTheStars) - Block-based 3D voxel space crafting game with procedural star systems, authoritative client/server multiplayer and an optional AI story campaign. Written in C# (Unity client, .NET server). [Download](https://github.com/marceld23/BlocksBeyondTheStars/releases)
 
 ### Simulation
 
