@@ -25,6 +25,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Puzzle](#user-content-puzzle)
   - [Clicker](#user-content-clicker)
   - [Point and Click](#user-content-point-and-click)
+  - [Geography](#user-content-geography)
   - [Others](#user-content-others)
 - [Native](#user-content-native)
   - [Action](#user-content-action-1)
@@ -46,7 +47,6 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 - [Just The Source](#user-content-just-the-source)
 - [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
 - [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
-- [Geography](#geography)
 
 -------
 
