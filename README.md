@@ -414,6 +414,7 @@ A selection of major game studios, publishers, etc.:
 
 ### Simulation
 
+* [ALIS](https://github.com/fallintodusk/alis) - Post-apocalyptic survival sim set in a reconstructed real-world city; early single-player prototype with GPG-signed releases. AGPL-3.0 code, CC BY-NC-SA content. Written in UE5, C++. [Download](https://github.com/fallintodusk/alis/releases)
 - [Hurry Curry!](https://codeberg.org/hurrycurry/hurrycurry) - Cooperative fast-paced multiplayer cooking game. Written on Godot in Rust & GDScript. [Play it now!](https://hurrycurry.org/)
 
 
