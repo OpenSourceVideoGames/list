@@ -169,6 +169,7 @@ A selection of major game studios, publishers, etc.:
 
 ## RPG
 
+* [Civic Nightmare](https://github.com/Daniele-Cangi/civic-nightmare) - Satirical top-down bureaucracy RPG built with Godot 4.6. [Play it now!](https://daniele-cangi.github.io/civic-nightmare/)
 * [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.  [Play it now!](http://mitallast.github.io/diablo-js/)
 * [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.
 * [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG.
